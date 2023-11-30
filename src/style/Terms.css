@@ -1,0 +1,15 @@
+.container{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+}
+h3{
+    text-align:center;
+    color:darkcyan;
+}
